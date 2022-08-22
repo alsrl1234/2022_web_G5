@@ -19,10 +19,12 @@ include_once(G5_THEME_PATH.'/head.php');
 <?php
 echo G5_THEME_PATH;
 echo "<br>";
-echo G5_THEME_IMG_URL."<br>";
-echo G5_THEME_CSS_URL."<br>";
-echo G5_THEME_JS_URL."<br>";
+echo G5_THEME_IMG_URL."<BR>";
+echo G5_THEME_CSS_URL."<BR>";
+echo G5_THEME_JS_URL."<BR>";
 ?>
+
+
 
 <?php
 include_once(G5_THEME_PATH.'/tail.php');
